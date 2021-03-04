@@ -8,7 +8,7 @@ import PageFooter from "../../src/components/PageFooter.vue";
 
 describe("App component", () => {
   let appWrapper;
-  const router = new VueRouter({ path: "/", name: "ShowsCatalog" });
+  const router = new VueRouter({ path: "/", name: "showsCatalog" });
 
   beforeEach(() => {
     Vue.use(VueRouter);

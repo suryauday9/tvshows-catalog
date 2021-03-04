@@ -93,7 +93,7 @@ export default {
   },
   beforeCreate() {
     if(!this.$route.params.id) {
-      this.$router.push({ name: "ShowsCatalog"});
+      this.$router.push({ name: "showsCatalog"});
     }
   },
   created() {

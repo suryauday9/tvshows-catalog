@@ -191,7 +191,7 @@ describe('ShowDetails component', () => {
 
     it('goback method should redirect to home', () => {
         wrapper.vm.goBack();
-        expect(wrapper.vm.$router.history.pending.name).toBe('ShowsCatalog');
+        expect(wrapper.vm.$router.history.pending.name).toBe('showsCatalog');
     });
 
 });
