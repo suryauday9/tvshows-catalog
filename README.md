@@ -109,7 +109,7 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Project Guidelines ------------
+### Project Guidelines:
 
 1) Method Naming Convention, 
    variable, object declaration : camelCase
