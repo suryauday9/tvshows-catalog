@@ -1,0 +1,176 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowDetails component renders component correctly 1`] = `
+<div
+  class="show-details"
+>
+  <v-btn-stub
+    activeclass=""
+    class="back-button black white--text"
+    icon="true"
+    tag="button"
+    type="button"
+  >
+    <v-icon-stub>
+      mdi-keyboard-return
+    </v-icon-stub>
+  </v-btn-stub>
+   
+  <div
+    class="ma-5"
+    style="background-size: 100% 96%; background-image: url(https://static.tvmaze.com/uploads/images/original_untouched/219/549687.jpg);"
+  >
+    <v-container-stub
+      tag="div"
+    >
+      <v-row-stub
+        class="black--text py-md-12"
+        tag="div"
+      >
+        <v-col-stub
+          class="show-thumbnail-block"
+          cols="12"
+          md="5"
+          tag="div"
+        >
+          <v-img-stub
+            class="ml-auto elevation-6"
+            contain="true"
+            options="[object Object]"
+            position="center center"
+            src="https://static.tvmaze.com/uploads/images/original_untouched/0/808.jpg"
+            transition="fade-transition"
+            width="390"
+          />
+        </v-col-stub>
+         
+        <v-col-stub
+          class="pa-4 yellow lighten-5"
+          cols="12"
+          md="7"
+          tag="div"
+        >
+          <h1
+            class="display-2"
+          >
+            
+              Justified
+            
+          </h1>
+           
+          <div
+            class="d-flex flex-column pt-2"
+          >
+            <p
+              class="subtitle-1 ma-0"
+            >
+              <v-chip-stub
+                active="true"
+                activeclass=""
+                class="white--text purple ma-2"
+                closeicon="$delete"
+                closelabel="$vuetify.close"
+                filtericon="$complete"
+                tag="span"
+              >
+                <v-icon-stub
+                  left=""
+                  small=""
+                >
+                  mdi-information
+                </v-icon-stub>
+                
+                    English
+                  
+              </v-chip-stub>
+            </p>
+             
+            <p
+              class="subtitle-1"
+            >
+              <v-chip-stub
+                active="true"
+                activeclass=""
+                class="white--text teal ma-2"
+                closeicon="$delete"
+                closelabel="$vuetify.close"
+                filtericon="$complete"
+                tag="span"
+              >
+                <v-icon-stub
+                  left=""
+                  small=""
+                >
+                  mdi-information
+                </v-icon-stub>
+                
+                    Drama
+                
+              </v-chip-stub>
+              <v-chip-stub
+                active="true"
+                activeclass=""
+                class="white--text teal ma-2"
+                closeicon="$delete"
+                closelabel="$vuetify.close"
+                filtericon="$complete"
+                tag="span"
+              >
+                <v-icon-stub
+                  left=""
+                  small=""
+                >
+                  mdi-information
+                </v-icon-stub>
+                
+                    Crime
+                
+              </v-chip-stub>
+              <v-chip-stub
+                active="true"
+                activeclass=""
+                class="white--text teal ma-2"
+                closeicon="$delete"
+                closelabel="$vuetify.close"
+                filtericon="$complete"
+                tag="span"
+              >
+                <v-icon-stub
+                  left=""
+                  small=""
+                >
+                  mdi-information
+                </v-icon-stub>
+                
+                    Western
+                
+              </v-chip-stub>
+            </p>
+             
+            <p
+              class="headline d-flex align-center"
+            >
+              
+                8.9
+                
+              <v-icon-stub
+                color="red"
+              >
+                mdi-star
+              </v-icon-stub>
+            </p>
+             
+            <div
+              class="text-left"
+            >
+              <p>
+                Deputy U.S. Marshal Raylan Givens is something of a 19th century-style officer in modern times, whose unconventional enforcement of justice makes him a target with criminals and a problem for his superiors in the U.S. Marshals Service. As a result of an eager but "justified" shooting of a Miami fugitive while on assignment in Florida, Givens is reassigned to Lexington, Kentucky, in a district that includes his hometown of Harlan, a rural mining town in the east of the state.
+              </p>
+            </div>
+          </div>
+        </v-col-stub>
+      </v-row-stub>
+    </v-container-stub>
+  </div>
+</div>
+`;

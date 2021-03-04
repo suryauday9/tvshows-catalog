@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ShowsCatalog component renders component correctly 1`] = `
+<div>
+  <div
+    class="searchshow-container"
+  >
+    <search-shows-stub />
+  </div>
+   
+  <div
+    class="genre-shows-container"
+  >
+    <div>
+      <list-container-stub
+        genre="Action"
+      />
+    </div>
+    <div>
+      <list-container-stub
+        genre="Crime"
+      />
+    </div>
+    <div>
+      <list-container-stub
+        genre="Drama"
+      />
+    </div>
+    <div>
+      <list-container-stub
+        genre="Horror"
+      />
+    </div>
+    <div>
+      <list-container-stub
+        genre="Science-Fiction"
+      />
+    </div>
+    <div>
+      <list-container-stub
+        genre="Thriller"
+      />
+    </div>
+  </div>
+</div>
+`;
