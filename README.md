@@ -11,6 +11,7 @@ Here you can see the tech stack used to develop this project
 - HTML5
 - CSS
 - ECMAScript 6 (ES6)
+- VueJS
 
 ### Vue
 Based on the exposure and experience working on multiple JavaScript frameworks such as jQuery, AngularJS, ReactJS for quite some time. This time I've chosen VueJS because it's a framework that helps you to enhance the structure of your code, it has an active community that makes it better every day.
@@ -23,24 +24,7 @@ Below are the packages used to develope the application:
 - Routes management: VueRouter
 - Store management: Vuex
 - Components design: Vuetify
-- Code formatters: ES-Linter + Prettier
-
-This has some advantages.
-Please refer below urls
-
-https://cli.vuejs.org/
-
-https://cli.vuejs.org/guide/
-
-### Installation of vue/cli
-Note: You need administrator privileges to execute these unless npm was installed on your system through a Node.js version manager.
-
-```
-npm install -g @vue/cli
-
-```
-Note: You can check you have the right version with this command:
-vue --version
+- Code formatters: ES-Linter
 
 ### Api
 TV shows API: http://www.tvmaze.com/api
@@ -50,6 +34,27 @@ Shows List: http://api.tvmaze.com/shows
 Show details: http://api.tvmaze.com/shows/:id 
 Show Thumbnails: http://api.tvmaze.com/shows/:id/images
 Search shows: http://api.tvmaze.com/search/shows?q=:query
+
+## Installations
+## Vue CLI
+```
+This has some advantages.
+Please refer below urls
+
+https://cli.vuejs.org/
+
+https://cli.vuejs.org/guide/
+
+```
+## Installation of vue/cli
+Note: You need administrator privileges to execute these unless npm was installed on your system through a Node.js version manager.
+
+```
+npm install -g @vue/cli
+
+```
+Note: You can check you have the right version with this command:
+vue --version
 
 ## Project setup
 First clone the repository:
