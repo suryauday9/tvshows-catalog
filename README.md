@@ -26,6 +26,25 @@ Below are the packages used to develope the application:
 - Components design: Vuetify
 - Code analysis: ES-Linter
 
+### Project dependencies and devDependencies - In detail
+1. axios:
+   Promise based HTTP client for the browser.
+   Please refer below url for more details:
+   https://www.npmjs.com/package/axios   
+
+2. Vuetify:
+   Vuetify is a Vue UI Library with beautifully handcrafted Material Components. No design skills required — everything you need to create amazing applications is at your fingertips.
+   Please refer below url for more details:
+   https://vuetifyjs.com/en/introduction/why-vuetify/#guide
+
+3. @vue/cli-plugin-unit-jest:
+   Run unit tests with Jest. Jest as a JS unit testing framework and runner.
+   Please refer below url for more details:
+   https://jestjs.io/
+
+   In jest.config.js: we can configure some key feature such as collectCoverage, collectCoverageFrom, coverageThreshold etc
+   for getting exact code coverage with reports.
+
 ### Api
 TV shows API: http://www.tvmaze.com/api
 
