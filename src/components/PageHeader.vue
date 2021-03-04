@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <v-app-bar app color="blue-grey darken-3" dark flat>
-      <router-link :to="{ name: 'ShowsCatalog' }" style="text-decoration: none">
+      <router-link :to="{ name: 'showsCatalog' }" style="text-decoration: none">
         <v-btn text large>
           <v-icon x-large>mdi-youtube-tv</v-icon>
           <v-toolbar-title class="headline mx-5 display-1 font-weight-bold">
@@ -11,7 +11,7 @@
         </v-btn>
       </router-link>
       <v-spacer></v-spacer>
-      <v-btn id='searchBar' v-if="$route.name === 'ShowsCatalog'" icon @click="showSearchbar()">
+      <v-btn id='searchBar' v-if="$route.name === 'showsCatalog'" icon @click="showSearchbar()">
         <v-icon>mdi-magnify</v-icon>
       </v-btn>
     </v-app-bar>
