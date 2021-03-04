@@ -55,7 +55,7 @@ Search shows: http://api.tvmaze.com/search/shows?q=:query
 ## Project setup
 First clone the repository:
 ```
-git clone https://github.com/Dawntraoz/tv-shows-spa.git
+git clone https://github.com/suryauday9/tvshows-catalog.git
 ```
 
 To install dependencies and start working on the project run:
