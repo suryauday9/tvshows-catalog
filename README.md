@@ -1,4 +1,4 @@
-# tvshows-catalog
+# TV Shows App with VueJS
 TV Shows catalog with listings by genres and ratings. Search the TV Show you want to know more about.
 
 ## Prerequisites
@@ -99,6 +99,11 @@ npm run build
 ### Run your unit tests
 ```
 npm run test:unit
+```
+
+### Run to see unit tests code coverage
+```
+npm run test:coverage
 ```
 
 ### Lints and fixes files
