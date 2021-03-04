@@ -24,7 +24,7 @@ Below are the packages used to develope the application:
 - Routes management: VueRouter
 - Store management: Vuex
 - Components design: Vuetify
-- Code formatters: ES-Linter
+- Code analysis: ES-Linter
 
 ### Api
 TV shows API: http://www.tvmaze.com/api
