@@ -32,7 +32,6 @@ https://cli.vuejs.org/
 
 https://cli.vuejs.org/guide/
 
-```
 ### Installation of vue/cli
 Note: You need administrator privileges to execute these unless npm was installed on your system through a Node.js version manager.
 
