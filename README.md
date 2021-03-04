@@ -101,6 +101,11 @@ npm run build
 npm run test:unit
 ```
 
+### Run to see unit tests code coverage
+```
+npm run test:coverage
+```
+
 ### Lints and fixes files
 ```
 npm run lint
